@@ -29,6 +29,7 @@
         "web": {
             "favicon": "./assets/favicon.png",
             "prefer_related_applications": false
+
         }
     }
 }

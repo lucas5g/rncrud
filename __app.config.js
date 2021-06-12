@@ -14,6 +14,7 @@ export default {
         preferRelatedApplications: false,
         themeColor: '#FF5733',
         backgroundColor: '#FF5733',
+        icons: './assets/icon.png',
         favicon: './assets/favicon.png'
     },
 };
