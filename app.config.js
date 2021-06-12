@@ -12,5 +12,7 @@ export default {
             },
         ],
         preferRelatedApplications: false,
+        themeColor: '#FF5733',
+        favicon: './assets/favicon.png'
     },
 };

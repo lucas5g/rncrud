@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/static/media/bell.cf04af27.png"
   },
   {
-    "revision": "821dfab95fd066e4d033b80f42a44dc1",
+    "revision": "a8548010694ade5aa0c2bfe58ba6d187",
     "url": "/index.html"
   },
   {
@@ -96,7 +96,19 @@ self.__precacheManifest = [
     "url": "/static/js/2.1667c9ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2835bde149583308a0d05b1ff60459f2",
+    "revision": "d324ddc823eca6c86688f62576c81e76",
+    "url": "/favicon-16.png"
+  },
+  {
+    "revision": "e72daee58e37c99d3553059eda418aa8",
+    "url": "/favicon-32.png"
+  },
+  {
+    "revision": "50b1bd72d8b0c569ffcad83d622ec176",
+    "url": "/favicon.ico"
+  },
+  {
+    "revision": "44805d05b2e881f53980e290476b71d3",
     "url": "/manifest.json"
   }
 ];

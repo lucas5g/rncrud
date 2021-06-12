@@ -4,6 +4,7 @@
   "name": "rncrud",
   "short_name": "rncrud",
   "start_url": "/?utm_source=web_app_manifest",
+  "theme_color": "#FF5733",
   "related_applications": [
     {
       "platform": "itunes",
