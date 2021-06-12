@@ -23,7 +23,7 @@ export default function App() {
             component={UserList}
             options={({ navigation }) => {
               return {
-                title: 'Lista de Usuários',
+                title: 'Lista de Usuários - crud',
                 headerRight: () => (
                   <Button
                     onPress={() => navigation.navigate('UserForm')}
