@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/favicon.ico"
   },
   {
-    "revision": "44805d05b2e881f53980e290476b71d3",
+    "revision": "9fcd148f734f4b41868d3349a538ced3",
     "url": "/manifest.json"
   }
 ];
